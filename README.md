@@ -22,3 +22,5 @@ Projekt na przedmiot PAP.
 18. Wyswietlenie najpopularniejszych
 19. Katalog samochodów i marek
 20. Najpopularniejsze marki i nadwozia
+21. Ustawienia strony internetowej (tryb ciemny, czcionka)
+22. Zarządzanie profilem
